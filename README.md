@@ -14,4 +14,23 @@ ViTReg-IP combines feature extraction models and is based on a vision transforme
 * Mahmoud Melkemi, Université de Haute-Alsace, IRIMAS, mahmoud.melkemi@uha.fr
 
 # Reference
-Hammoudi, K., Benhabiles, H., Melkemi, M. et al. Deep Learning on Chest X-ray Images to Detect and Evaluate Pneumonia Cases at the Era of COVID-19. J Med Syst 45, 75 (2021). https://doi.org/10.1007/s10916-021-01745-4
+> Hammoudi, K., Benhabiles, H., Melkemi, M. et al. Deep Learning on Chest X-ray Images to Detect and Evaluate Pneumonia Cases at the Era of COVID-19. J Med Syst 45, 75 (2021). https://doi.org/10.1007/s10916-021-01745-4
+```
+@Article{Hammoudi2021,
+author={Hammoudi, Karim
+and Benhabiles, Halim
+and Melkemi, Mahmoud
+and Dornaika, Fadi
+and Arganda-Carreras, Ignacio
+and Collard, Dominique
+and Scherpereel, Arnaud},
+title={Deep Learning on Chest X-ray Images to Detect and Evaluate Pneumonia Cases at the Era of COVID-19},
+journal={Journal of Medical Systems},
+year={2021},
+month={June},
+day={08},
+issn={1573-689X},
+doi={10.1007/s10916-021-01745-4},
+url={https://doi.org/10.1007/s10916-021-01745-4}
+}
+```
