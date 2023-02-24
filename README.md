@@ -12,3 +12,6 @@ ViTReg-IP combines feature extraction models and is based on a vision transforme
 * Adnane Cabani, ESIGELEC/IRSEEM, adnane.cabani@esigelec.fr
 * Halim Benhabiles, Yncrea Hauts-de-France, IEMN Lille, halim.benhabiles@yncrea.fr
 * Mahmoud Melkemi, Université de Haute-Alsace, IRIMAS, mahmoud.melkemi@uha.fr
+
+# Reference
+Hammoudi, K., Benhabiles, H., Melkemi, M. et al. Deep Learning on Chest X-ray Images to Detect and Evaluate Pneumonia Cases at the Era of COVID-19. J Med Syst 45, 75 (2021). https://doi.org/10.1007/s10916-021-01745-4
