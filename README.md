@@ -6,6 +6,7 @@ ViTReg-IP combines feature extraction models and is based on a vision transforme
 # Team
 * Bouthaina Slika, University of the Basque Country, Spain, bslika001@ikasle.ehu.eus
 * Fadi Dornaika, University of the Basque Country & IKERBAQUE foundation, fadi.dornaika@ehu.es
+* Hamid Merdji, INSERM, CRBS, University of Strasbourg, & Hôpital Universitaire de Strasbourg, merdgi.hamid@gmail.com
 * Karim Hammoudi, Université de Haute-Alsace, IRIMAS, karim.hammoudi@uha.fr
 
 # Collaborators
