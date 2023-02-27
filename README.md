@@ -5,14 +5,15 @@ ViTReg-IP combines feature extraction models and is based on a vision transforme
 
 # Team
 ## Core Contributors
-* Bouthaina Slika, University of the Basque Country, Spain, bslika001@ikasle.ehu.eus
-* Fadi Dornaika, University of the Basque Country & IKERBAQUE foundation, fadi.dornaika@ehu.es
-* Karim Hammoudi, Université de Haute-Alsace, IRIMAS, karim.hammoudi@uha.fr
-* Hamid Merdji, INSERM, CRBS, University of Strasbourg, & Hôpital Universitaire de Strasbourg, merdgi.hamid@gmail.com
+* Biomedical Engineer, PhD Student, Bouthaina Slika, University of the Basque Country, Spain, bslika001@ikasle.ehu.eus
+* Prof. Dr. Fadi Dornaika, Dept. of Artificial Intelligence, University of the Basque Country & IKERBAQUE foundation, Spain fadi.dornaika@ehu.es
+* Prof. Dr. Karim Hammoudi, Group Imagery, Dept. of Computer Science, IRIMAS, Université de Haute-Alsace, France, karim.hammoudi@uha.fr
+* Medical Doctor, PhD, Hamid Merdji, French National Institute of Health and Medical Research (INSERM), Regenerative Nanomedicine (RNM), Biomedicine Research Center (CRBS), Federation of Translational Medicine of Strasbourg; and Department of Intensive Medicine - Resuscitation, Hospital of Strasbourg, France.
+ merdgi.hamid@gmail.com
 ## Collaborators
-* Halim Benhabiles, Yncrea Hauts-de-France, IEMN Lille, halim.benhabiles@yncrea.fr
-* Mahmoud Melkemi, Université de Haute-Alsace, IRIMAS, mahmoud.melkemi@uha.fr
-* Adnane Cabani, ESIGELEC/IRSEEM, adnane.cabani@esigelec.fr
+* Prof. Dr. Halim Benhabiles, Group BIO-MEMS, Dept. of Artificial Intelligence, JUNIA, CNRS, IEMN, University of Lille, halim.benhabiles@yncrea.fr
+* Prof. Dr. Mahmoud Melkemi, Group Imagery, Dept. of Computer Science, IRIMAS mahmoud.melkemi@uha.fr
+* Prof. Dr. Adnance Cabani, Dept of Computer Science, ESIGELEC/IRSEEM, Normandy University, adnane.cabani@esigelec.fr
 
 # Reference
 > Hammoudi, K., Benhabiles, H., Melkemi, M. et al. Deep Learning on Chest X-ray Images to Detect and Evaluate Pneumonia Cases at the Era of COVID-19. J Med Syst 45, 75 (2021). https://doi.org/10.1007/s10916-021-01745-4
