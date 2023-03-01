@@ -8,7 +8,7 @@ ViTReg-IP combines feature extraction models and is based on a vision transforme
 * Biomedical Engineer, PhD Student, Bouthaina Slika, University of the Basque Country, Spain, bslika001@ikasle.ehu.eus
 * Prof. Dr. Fadi Dornaika, Dept. of Artificial Intelligence, University of the Basque Country & IKERBAQUE foundation, Spain fadi.dornaika@ehu.es
 * Prof. Dr. Karim Hammoudi, Group Imagery, Dept. of Computer Science, IRIMAS, Université de Haute-Alsace, France, karim.hammoudi@uha.fr
-* Medical Doctor, PhD, Hamid Merdji, French National Institute of Health and Medical Research (INSERM), Regenerative Nanomedicine (RNM), Biomedicine Research Center (CRBS), Federation of Translational Medicine of Strasbourg; and Department of Intensive Medicine - Resuscitation, Hospital of Strasbourg, France.
+* Medical Doctor, PhD, Hamid Merdji, French National Institute of Health and Medical Research (INSERM), Regenerative Nanomedicine (RNM), Biomedicine Research Center (CRBS), Federation of Translational Medicine; and Dept. of Intensive Medicine - Resuscitation, Hospital of Strasbourg, France.
  merdgi.hamid@gmail.com
 ## Collaborators
 * Prof. Dr. Halim Benhabiles, Group BIO-MEMS, Dept. of Artificial Intelligence, JUNIA, CNRS, IEMN, University of Lille, halim.benhabiles@yncrea.fr
