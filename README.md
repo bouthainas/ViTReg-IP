@@ -12,7 +12,7 @@ ViTReg-IP combines feature extraction models and is based on a vision transforme
  merdgi.hamid@gmail.com
 ## Collaborators
 * Prof. Dr. Halim Benhabiles, Group BIO-MEMS, Dept. of Artificial Intelligence, JUNIA, CNRS, IEMN, University of Lille, halim.benhabiles@yncrea.fr
-* Prof. Dr. Mahmoud Melkemi, Group Imagery, Dept. of Computer Science, IRIMAS mahmoud.melkemi@uha.fr
+* Prof. Dr. Mahmoud Melkemi, Group Imagery, Dept. of Computer Science, IRIMAS, Université de Haute-Alsace, mahmoud.melkemi@uha.fr
 * Prof. Dr. Adnance Cabani, Dept of Computer Science, ESIGELEC/IRSEEM, Normandy University, adnane.cabani@esigelec.fr
 
 # Reference
