@@ -9,10 +9,12 @@ ViTReg-IP combines feature extraction models and is based on a vision transforme
 * Prof. Dr. Fadi Dornaika, IEEE member, Dept. of Artificial Intelligence, University of the Basque Country & IKERBAQUE foundation, Spain fadi.dornaika@ehu.es
 * Prof. Dr. Karim Hammoudi, IEEE member, Group Imagery, Dept. of Computer Science, IRIMAS, Université de Haute-Alsace, France, karim.hammoudi@uha.fr
 * Medical Doctor, PhD, Hamid Merdji, French National Institute of Health and Medical Research (INSERM), Regenerative Nanomedicine (RNM), Biomedicine Research Center (CRBS), Federation of Translational Medicine, and Dept. of Intensive Medicine-Resuscitation, Hospital of Strasbourg, France, merdgi.hamid@gmail.com
+* Dr. Vinh Truong Hoang, Dept. of Computer Science, HCMC Open University, Ho Chi Minh City, Vietnam, vinth@ou.edu.vn
+
 ## Collaborators
 * Prof. Dr. Halim Benhabiles, Group BIO-MEMS, Dept. of Artificial Intelligence, JUNIA, CNRS, IEMN, University of Lille, halim.benhabiles@yncrea.fr
 * Prof. Dr. Mahmoud Melkemi, Group Imagery, Dept. of Computer Science, IRIMAS, Université de Haute-Alsace, mahmoud.melkemi@uha.fr
-* Prof. Dr. Adnance Cabani, Dept of Computer Science, ESIGELEC/IRSEEM, Normandy University, adnane.cabani@esigelec.fr
+* Prof. Dr. Adnance Cabani, Dept. of Computer Science, ESIGELEC/IRSEEM, Normandy University, adnane.cabani@esigelec.fr
 
 # Reference
 > Hammoudi, K., Benhabiles, H., Melkemi, M. et al. Deep Learning on Chest X-ray Images to Detect and Evaluate Pneumonia Cases at the Era of COVID-19. J Med Syst 45, 75 (2021). https://doi.org/10.1007/s10916-021-01745-4
