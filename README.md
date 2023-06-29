@@ -17,7 +17,7 @@ ViTReg-IP combines feature extraction models and is based on a vision transforme
 * Prof. Dr. Adnance Cabani, Dept. of Computer Science, ESIGELEC/IRSEEM, Normandy University, adnane.cabani@esigelec.fr
 
 # Reference
-> Hammoudi, K., Benhabiles, H., Melkemi, M. et al. Deep Learning on Chest X-ray Images to Detect and Evaluate Pneumonia Cases at the Era of COVID-19. J Med Syst 45, 75 (2021). https://doi.org/10.1007/s10916-021-01745-4
+> Karim Hammoudi, Halim Benhabiles, Mahmoud Melkemi, Fadi Dornaika, Ignacio Arganda-Carreras, Dominique Collard, and Arnaud Scherpereel. Deep learning on chest x-ray images to detect and evaluate pneumonia cases at the era of covid-19. Journal of medical systems, 45(7):1–10, 2021. https://doi.org/10.1007/s10916-021-01745-4
 ```
 @Article{Hammoudi2021,
 author={Hammoudi, Karim
@@ -35,6 +35,20 @@ day={08},
 issn={1573-689X},
 doi={10.1007/s10916-021-01745-4},
 url={https://doi.org/10.1007/s10916-021-01745-4}
+}
+```
+> Bouthaina Slika, Fadi Dornaika, Karim Hammoudi, and Vinh Truong Hoang. Automatic quantification of lung infection severity in chest x-ray images. In IEEE Statistical Signal Processing (SSP) Workshop, pages 418–422. IEEE, 2023.
+```
+@inproceedings{slika2023ssp,
+title={Automatic Quantification of Lung Infection Severity in Chest X-ray Images},
+author={Slika, Bouthaina
+and Dornaika, Fadi
+and Hammoudi, Karim
+and Hoang, Vinh Truong},
+booktitle={IEEE Statistical Signal Processing (SSP) Workshop},
+pages={418--422},
+year={2023},
+organization={IEEE}
 }
 ```
 ![ ](https://github.com/bouthainas/ViTReg-IP/blob/main/Contributors.png)
